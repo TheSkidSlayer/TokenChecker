@@ -21,9 +21,9 @@
     A discord token creator that uses the service capmonster for captcha solving!
     <br />
     <br />
-    <a href="https://github.com/dropout1337/Discord-Token-Creator/issues">Report Bug</a>
+    <a href="https://github.com/TheSkidSlayer">Report Bug</a>
     ·
-    <a href="https://github.com/dropout1337/Discord-Token-Creator/issues">Request Feature</a>
+    <a href="https://github.com/TheSkidSlayer">Request Feature</a>
   </p>
 </div>
   
