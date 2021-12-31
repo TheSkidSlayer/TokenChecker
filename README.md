@@ -11,7 +11,7 @@
   
 <br/>
 <div align="center">
-  <a href="https://github.com/dropout1337/Discord-Token-Creator">
+  <a href="https://github.com/TheSkidSlayer/TokenChecker">
     <img src="https://i.imgur.com/9l4pHEN.png" alt="Logo" width="120" height="120">
   </a>
   
